@@ -3,7 +3,7 @@
 Plugin Name: Photo Wall FX
 Plugin URI: http://www.flashxml.net/photo-wall.html
 Description: One of the most advanced Photo Walls on the web. Completely XML customizable, without any Flash knowledge. And it's free!
-Version: 0.2.0
+Version: 0.2.1
 Author: FlashXML.net
 Author URI: http://www.flashxml.net/
 License: GPL2
